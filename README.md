@@ -1,6 +1,6 @@
 ![image](/Wildcat-1_depthTimeChart.png)
 # Drilling Depth vs Time Chart
-* The objective is to show a workflow of how to plot a drilling depth vs time chart for a single well.
+* The objective is to show a workflow of how to plot a drilling depth vs time chart for a single well and create a pdf file.
 * The planned and actual depths are going to added.
 
 ## Steps to deploy project
