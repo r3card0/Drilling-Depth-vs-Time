@@ -1,6 +1,6 @@
 ![image](/Wildcat-1_depthTimeChart.png)
 # Depth vs Days Plot
-* The objective is to show a workflow of how to plot a drilling depth vs time chart for a single well and create a pdf file.
+* This is a data visualization project with the objective to show a workflow of how to plot a drilling depth vs days chart for a single well and create a pdf file.
 * The planned and actual depths are going to added.
 
 ## Steps to deploy project
