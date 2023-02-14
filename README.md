@@ -2,7 +2,7 @@
 
 ![image](/Wildcat-1_depthTimeChart.png)
 
-This is a data visualization tool with the objective to support the closing of a drilling project by documenting the performance and use it into exploration and development phases of a oil & gas field.
+This is a data visualization tool with the objective to support the closing of a drilling project by documenting the performance and use it into exploration and development phases of an oil & gas field.
 
 The tool plots the data (planned and actual) and automate the creation of a pdf file of the plot.
 
