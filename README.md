@@ -1,13 +1,18 @@
-![image](/Wildcat-1_depthTimeChart.png)
 # Drilling Depth vs Time Chart
-* The objective is to show a workflow of how to plot a drilling depth vs time chart for a single well and create a pdf file.
-* The planned and actual depths are going to added.
+![image](/img/Wildcat-1_depthTimeChart.png)
 
-## Steps to deploy project
+This is a data visualization tool with the objective to support the closing of a drilling project by documenting and comparing the performance of the drilling executiong.
+
+The tool plots the data (planned and actual) and automate the creation of a pdf file of the plot.
+
+
+## Deploy on Google Colab
+1. Go to -> [notebook](https://colab.research.google.com/drive/1nw6L8S8iY4pXfiIabYhHdPhxkk0z9X9E?usp=share_link)
+
+## Deploy on local directory
 1. Define a local directory  
 2. Create a virtual environment ```python3 -m venv name```
 3. Activate the virtual environment
 4. Install python libraries: ```pip install pandas matplotlib```
-5. Open [singlewell.py](https://github.com/r3card0/Drilling-Depth-vs-Time/blob/main/singlewell.py) file and set the planned/actual data from line ```6``` to line ```12``` and set the name of the well on line ```48```
-6. Run script [singlewell.py](https://github.com/r3card0/Drilling-Depth-vs-Time/blob/main/singlewell.py) and look the pdf file created of.
-
+5. Open [singlewell.py](/main/singlewell.py) file and set the planned/actual data from line ```6``` to line ```12``` and set the name of the well on line ```48```
+6. Run script [singlewell.py](/main/singlewell.py) and look the pdf file created of.
