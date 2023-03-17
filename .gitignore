@@ -2,3 +2,5 @@ venv_dvt/
 main.py
 depthTimeChart.pdf
 depthTimeChart.png
+sampling.py
+this.txt
