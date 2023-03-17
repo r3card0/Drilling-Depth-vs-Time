@@ -1,7 +1,7 @@
 # Drilling Depth vs Time Chart
 ![image](/img/Wildcat-1_depthTimeChart.png)
 
-This is a data visualization tool with the objective to support the closing of a drilling project by documenting and comparing the performance of the drilling executiong.
+This is a data visualization tool with the objective to support the closing of a drilling project by documenting and comparing the performance of the drilling execution.
 
 The tool plots the data (planned and actual) and automate the creation of a pdf file of the plot.
 
@@ -14,5 +14,6 @@ The tool plots the data (planned and actual) and automate the creation of a pdf 
 2. Create a virtual environment ```python3 -m venv name```
 3. Activate the virtual environment
 4. Install python libraries: ```pip install pandas matplotlib```
-5. Open [singlewell.py](/main/singlewell.py) file and set the planned/actual data from line ```6``` to line ```12``` and set the name of the well on line ```48```
-6. Run script [singlewell.py](/main/singlewell.py) and look the pdf file created of.
+5. Download the repo
+6. Open and modify the [singlewell.py](/main/singlewell.py) file and set the planned/actual data from line ```6``` to line ```12``` and set the name of the well on line ```53```
+7. Run script [singlewell.py](/main/singlewell.py) and look the pdf file created on local directory.
