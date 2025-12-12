@@ -1,4 +1,7 @@
 # Drilling Depth vs Time Chart
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![image](/img/Wildcat-1_depthTimeChart.png)
 
 This is a data visualization tool with the objective to support the closing of a drilling project by documenting and comparing the performance of the drilling execution.
